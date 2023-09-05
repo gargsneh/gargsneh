@@ -1,13 +1,13 @@
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Dhiraj Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Sneh Garg! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;BCA+Undergrad"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Android+Developer;Open+Source+Contributor;Tech+Enthusiast;BCA+Undergrad"/>
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br>
-<p align="center" width="150px">I am currently a third Year student at COER University Roorkee pursuing my BCA degree .Here to contribute in Open Source projects and learn new things on the go. Currently, I am focused on strengthening my programming skills, particularly in Full Stack Development , C++ and data structures. I possess a solid foundation in C, C++, JavaScript, Python , having mastered their basics. I believe that continuous learning in the ever-evolving field of technology is key to staying relevant and making a meaningful impact.</p>
+<p align="center" width="150px">I am currently a third Year student at COER University Roorkee pursuing my BCA degree .Here to contribute in Open Source projects and learn new things on the go. Currently, I am focused on strengthening my programming skills, particularly in Web Development , C++ and data structures. I possess a solid foundation in C, C++, JavaScript, Figma ,Python , having mastered their basics. I believe that continuous learning in the ever-evolving field of technology is key to staying relevant and making a meaningful impact.</p>
 </p>
 <br>
 <hr>
@@ -44,9 +44,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- <br/>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+
 <!--  
 <code><img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
  <code><img width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -72,7 +70,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/dhiraj-kumar-3900a71a6/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:dkskp2005@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/dhiraj2105" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br> 
+<a href="https://www.linkedin.com/in/sneh-garg-071598230/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:gargsneh40@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/gargsneh" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br> 
 </p>
   
 <Br>
@@ -81,15 +79,15 @@
 <br>
 
   
-<!-- 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p align="right">
   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
 
--->
+
 -----
-Credits: [Dhiraj Kumar](https://github.com/dhiraj2105)
+Credits: [Sneh Garg](https://github.com/gargsneh)
 
  
 
